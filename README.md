@@ -1,2 +1,2 @@
 # Customer-Churn-Prediction
-Works with a telecom churn dataset or any similar churn dataset with minor column changes
+Machine learning project predicting customer churn using Logistic Regression, Random Forest, Gradient Boosting, SMOTE, and feature engineering
