@@ -1,0 +1,101 @@
+customer_id,gender,age,monthly_charges,tenure_months,internet_service,contract_type,payment_method,total_charges,churn
+1,Male,27,255.34,60,DSL,One year,Cash,35292.13,0
+2,Female,31,945.47,2,Fiber,Month-to-month,Cash,45074.24,0
+3,Male,66,1864.8,30,DSL,One year,Credit Card,65381.6,0
+4,Female,57,966.43,26,DSL,Month-to-month,Credit Card,73937.6,0
+5,Male,64,505.9,49,DSL,One year,UPI,52926.71,1
+6,Female,33,1601.08,18,Fiber,Month-to-month,Credit Card,81932.54,1
+7,Male,18,750.82,66,Fiber,Month-to-month,Auto Debit,21441.87,0
+8,Female,40,1481.43,49,Fiber,Month-to-month,Cash,85368.13,0
+9,Male,53,1450.75,67,DSL,Month-to-month,Credit Card,5293.58,1
+10,Female,61,1339.96,25,DSL,One year,UPI,31656.17,1
+11,Male,55,1641.12,41,DSL,One year,UPI,80973.56,0
+12,Female,51,811.68,67,No,Month-to-month,UPI,93429.47,0
+13,Male,67,1507.08,67,Fiber,Two year,Cash,79560.13,0
+14,Female,34,206.9,41,DSL,One year,UPI,5352.22,1
+15,Male,50,1794.49,53,No,Two year,Auto Debit,27742.65,1
+16,Female,44,533.08,15,Fiber,Two year,Cash,26194.69,1
+17,Male,40,411.31,24,DSL,One year,Cash,84203.87,0
+18,Female,43,851.43,52,Fiber,Two year,UPI,64029.52,1
+19,Male,62,855.75,60,Fiber,One year,Auto Debit,93931.4,0
+20,Female,18,260.96,56,Fiber,Month-to-month,Cash,82608.71,1
+21,Male,35,1002.54,40,No,Two year,UPI,29601.94,0
+22,Female,63,745.69,69,No,One year,Auto Debit,21758.73,1
+23,Male,60,976.84,29,DSL,Month-to-month,Cash,53402.51,0
+24,Female,62,1464.38,7,Fiber,One year,Credit Card,50834.71,1
+25,Male,49,596.76,27,No,Month-to-month,UPI,60863.86,0
+26,Female,40,244.18,48,DSL,Month-to-month,Cash,59903.09,1
+27,Male,62,975.78,52,Fiber,One year,Cash,37429.26,1
+28,Female,30,708.79,69,DSL,Month-to-month,Cash,68908.99,1
+29,Male,59,1135.11,45,No,One year,Auto Debit,13645.46,1
+30,Female,69,1794.19,41,DSL,Two year,Cash,71860.51,0
+31,Male,20,1490.03,38,Fiber,One year,Credit Card,2967.93,1
+32,Female,48,1368.65,51,DSL,Two year,Cash,91561.87,0
+33,Male,36,1992.01,2,DSL,Two year,Cash,45076.82,0
+34,Female,30,548.5,14,Fiber,Two year,UPI,95582.41,1
+35,Male,44,312.96,27,Fiber,Month-to-month,Cash,94389.7,0
+36,Female,39,455.02,9,DSL,Month-to-month,Auto Debit,30552.36,0
+37,Male,24,230.88,7,No,Month-to-month,Credit Card,23827.77,0
+38,Female,47,1523.12,53,No,One year,Auto Debit,35167.73,0
+39,Male,42,1966.7,25,Fiber,Month-to-month,Auto Debit,80715.53,1
+40,Female,42,240.15,33,Fiber,Month-to-month,UPI,2927.75,1
+41,Male,57,1234.08,52,No,Two year,UPI,37688.06,0
+42,Female,62,1207.29,38,Fiber,Two year,UPI,23220.4,1
+43,Male,45,1244.99,32,Fiber,Two year,UPI,16785.2,1
+44,Female,30,1982.81,43,Fiber,One year,Credit Card,54583.45,0
+45,Male,29,900.21,69,No,Two year,Auto Debit,30263.43,0
+46,Female,40,660.95,20,DSL,Month-to-month,Credit Card,48594.57,1
+47,Male,64,1750.88,56,No,One year,UPI,44790.14,1
+48,Female,46,1142.36,9,Fiber,One year,Cash,6144.12,1
+49,Male,60,1780.78,18,Fiber,Month-to-month,Credit Card,26908.78,1
+50,Female,19,869.89,49,Fiber,One year,Auto Debit,50654.64,0
+51,Male,38,384.69,8,No,Month-to-month,UPI,52701.06,0
+52,Female,39,642.39,14,DSL,Two year,Auto Debit,51782.76,0
+53,Male,64,286.84,63,DSL,Two year,Auto Debit,53185.92,1
+54,Female,65,1225.59,43,DSL,One year,Cash,93134.88,0
+55,Male,40,1649.99,39,No,Two year,UPI,90717.92,0
+56,Female,20,1208.84,39,Fiber,Month-to-month,UPI,64509.6,0
+57,Male,43,1804.88,13,Fiber,One year,Auto Debit,29962.65,1
+58,Female,37,1363.47,30,Fiber,One year,Auto Debit,85933.88,0
+59,Male,45,550.56,46,DSL,Month-to-month,Credit Card,64329.0,1
+60,Female,22,1524.81,1,DSL,Month-to-month,Auto Debit,23387.35,1
+61,Male,23,709.85,16,No,Two year,Credit Card,19286.3,1
+62,Female,25,258.33,25,No,One year,Cash,42057.43,1
+63,Male,48,1266.83,70,DSL,One year,Cash,80589.56,0
+64,Female,40,475.77,63,Fiber,One year,UPI,2811.17,1
+65,Male,22,327.91,35,Fiber,One year,UPI,46354.8,1
+66,Female,35,1606.78,47,DSL,Two year,UPI,86840.42,0
+67,Male,26,263.45,41,Fiber,Two year,Cash,84777.48,1
+68,Female,19,860.63,57,DSL,Month-to-month,Cash,60442.46,1
+69,Male,52,344.82,10,No,Month-to-month,UPI,22061.07,0
+70,Female,58,829.5,65,DSL,One year,Credit Card,28597.08,1
+71,Male,43,1525.29,58,Fiber,One year,UPI,25762.56,1
+72,Female,69,336.38,69,Fiber,Month-to-month,Cash,83022.4,0
+73,Male,22,1535.21,4,DSL,Two year,Credit Card,75002.09,1
+74,Female,23,249.87,17,DSL,One year,Cash,15682.18,0
+75,Male,42,474.13,17,DSL,One year,Credit Card,45320.08,1
+76,Female,27,695.28,59,Fiber,Two year,UPI,17263.66,1
+77,Male,42,993.29,20,DSL,Two year,Credit Card,34715.27,1
+78,Female,62,220.62,47,No,One year,Credit Card,80797.61,0
+79,Male,31,1209.76,46,No,One year,Credit Card,97060.8,0
+80,Female,27,646.16,42,Fiber,One year,Credit Card,6147.64,1
+81,Male,25,620.67,39,No,Month-to-month,Cash,59809.23,0
+82,Female,46,462.35,2,Fiber,Two year,UPI,82052.13,0
+83,Male,34,468.86,26,DSL,One year,Credit Card,37946.58,0
+84,Female,50,1590.99,58,Fiber,One year,Credit Card,70640.58,1
+85,Male,48,301.12,5,DSL,Month-to-month,Auto Debit,59176.75,1
+86,Female,30,251.06,5,No,Month-to-month,Cash,59487.31,0
+87,Male,60,567.48,49,DSL,Month-to-month,Credit Card,4565.95,1
+88,Female,64,886.79,42,Fiber,One year,Auto Debit,99045.81,1
+89,Male,62,1494.35,34,DSL,Two year,UPI,89893.97,1
+90,Female,41,1679.44,19,DSL,Month-to-month,UPI,51129.43,0
+91,Male,27,1969.32,10,No,Two year,Credit Card,68432.3,0
+92,Female,67,1359.43,38,No,One year,Cash,66171.18,1
+93,Male,69,994.79,23,DSL,Month-to-month,Credit Card,72972.82,0
+94,Female,24,581.11,42,No,Two year,Credit Card,94932.92,1
+95,Male,44,1796.37,70,Fiber,One year,Auto Debit,43340.7,0
+96,Female,24,254.29,13,No,One year,Cash,99569.53,0
+97,Male,61,714.77,43,Fiber,Two year,UPI,42340.17,0
+98,Female,34,812.45,4,DSL,Two year,Cash,29525.24,1
+99,Male,19,1149.9,61,DSL,One year,Auto Debit,40547.04,1
+100,Female,63,567.11,30,Fiber,One year,Auto Debit,26216.19,0
