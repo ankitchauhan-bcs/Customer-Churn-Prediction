@@ -140,10 +140,3 @@ jupyter notebook churn_model.ipynb
 ```
 
 ---
-
-## 🙌 Author
-
-**ANKIT CHAUHAN**
-Data Scientist | Machine Learning Enthusiast
-
----
